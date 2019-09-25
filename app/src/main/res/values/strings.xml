@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SIYENRA HOTEL RESERVATION</string>
+    <string name="fullname">FullName</string>
+    <string name="email">Email</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">LOGIN</string>
+    <string name="not_registered">Not Registered</string>
+    <string name="register">REGISTER</string>
+    <string name="already_registered">Already Registered</string>
+    <string name="confirm_password">confirm Password</string>
+    <string name="registration">Registration</string>
+
+</resources>
